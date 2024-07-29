@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenAPI.MVC", "OpenAPI.MVC\OpenAPI.MVC.csproj", "{1933EA03-1AF7-447A-B406-6BEFD793B89B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1933EA03-1AF7-447A-B406-6BEFD793B89B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1933EA03-1AF7-447A-B406-6BEFD793B89B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1933EA03-1AF7-447A-B406-6BEFD793B89B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1933EA03-1AF7-447A-B406-6BEFD793B89B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4A03B31-D4A1-4247-9D7D-88D46E83E32E}
+	EndGlobalSection
+EndGlobal
